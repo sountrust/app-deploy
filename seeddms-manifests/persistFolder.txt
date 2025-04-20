@@ -1,0 +1,3 @@
+This file only exists to prevent folder to be removed when all deployment are destroyed in git
+Folder empty is equal to removed folder within git server
+Flux would never find the specified path so won't update deployment status
