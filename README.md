@@ -1,6 +1,6 @@
 # 🧩 Kube-Deploy – Application Auto-Deployment Manifests
 
-This directory enables automated manifest generation and Git-based application lifecycle management for all managed applications in the Cloud Marketplace.
+This directory enables automated manifest generation and Git-based application lifecycle management for all managed applications in the VCloud Director.
 
 ---
 
